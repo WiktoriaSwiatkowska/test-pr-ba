@@ -1,0 +1,14 @@
+<transport>
+  <bus>
+    <line>105</line>
+    <start> Nowa Huta</start>
+    <end>Centrum</end>
+    <time>25</time>
+  </bus>
+  <bus>
+    <line>152</line>
+    <start>Podgórze</start>
+    <end>Kazimierz</end>
+    <time>15</time>
+  </bus>
+</transport>
