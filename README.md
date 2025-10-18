@@ -32,6 +32,6 @@ Each line connects different parts of the city and has different lengths and dur
 Below are images showing public transport in Krakow.  
 Two come from the Internet, and one is saved locally in the project folder.
 
-![Tram in Krakow](https://upload.wikimedia.org/wikipedia/commons/7/76/Krakow_tram.jpg)
-![MPK Bus](https://upload.wikimedia.org/wikipedia/commons/2/21/MPK_bus_Krakow.jpg)
-![Local Image](IMG/tram.jpg)
+![Tram in Krakow](https://thumbs.dreamstime.com/b/stary-krakow-tramwaj-18245291.jpg)
+![MPK Bus](https://www.transport-publiczny.pl/img/20221005130444Autobusnaliniinr128.jpg)
+![Kraków](trams.jpg)
