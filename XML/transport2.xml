@@ -1,1 +1,12 @@
-
+<transport>
+  <bus line=105 type="day">
+    <start> Nowa Huta</start>
+    <end>Centrum</end>
+    <time>25</time>
+  </bus>
+  <bus line=152 type="night">
+    <start>Podgórze</start>
+    <end>Kazimierz</end>
+    <time>15</time>
+  </bus>
+</transport>
