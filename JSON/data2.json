@@ -1,0 +1,8 @@
+[
+  {"line": 105, "start": "Nowa Huta", "end": "Centrum", "time": 25, "type": "bus"},
+  {"line": 152, "start": "Podgórze", "end": "Kazimierz", "time": 15, "type": "bus"},
+  {"line": 3, "start": "Nowa Huta", "end": "Bronowice", "time": 40, "type": "tram"},
+  {"line": 9, "start": "Mistrzejowice", "end": "Borek Fałęcki", "time": 45, "type": "tram"},
+  {"line": 179, "start": "Prokocim", "end": "Nowy Kleparz", "time": 30, "type": "bus"},
+  {"line": 24, "start": "Krowodrza", "end": "Kazimierz", "time": 20, "type": "tram"}
+]
