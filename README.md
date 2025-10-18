@@ -34,4 +34,4 @@ Two come from the Internet, and one is saved locally in the project folder.
 
 ![Tram in Krakow](https://thumbs.dreamstime.com/b/stary-krakow-tramwaj-18245291.jpg)
 ![MPK Bus](https://www.transport-publiczny.pl/img/20221005130444Autobusnaliniinr128.jpg)
-![Kraków](trams.jpg)
+![Kraków](IMG/trams.jpg)
