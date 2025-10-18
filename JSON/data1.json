@@ -1,0 +1,10 @@
+{
+  "city": "Kraków",
+  "trams": 25,
+  "buses": 50,
+  "ticket_price": 4.6,
+  "night_lines": true,
+  "main_stops": ["Dworzec", "Kazimierz", "Nowa Huta"]
+  "info": {"language":"Polish", "currency": "PLN"},
+  "website": "www.mpk.krakow.pl"
+}
